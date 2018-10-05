@@ -1,0 +1,3 @@
+#the first program basically shows us how we can implement linux shell commands in a python script
+#most important library here is subprocess 
+#https://docs.python.org/2/library/subprocess.html
